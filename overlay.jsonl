@@ -1,4 +1,4 @@
-{"_":"dollfinder-overlay","v":1,"model":"qwen3.6-35b-a3b","prompt":"2026-08-06e","built":"2026-08-16T20:02:30.227Z","count":30418}
+{"_":"dollfinder-overlay","v":1,"model":"qwen3.6-35b-a3b","prompt":"2026-08-06e","built":"2026-08-17T14:00:46.108Z","count":30426}
 {"id":297786,"h":"013ce9e01b555f21","p":1,"t":"body-parts"}
 {"id":395233,"h":"357ded065d851b61","p":1,"t":"clothing"}
 {"id":443539,"h":"e7cf44064fec69b4","p":1,"t":"clothing"}
@@ -30284,6 +30284,14 @@
 {"id":8703012,"h":"1e11a1cb9b00f92a","p":0,"r":"not-product"}
 {"id":8703030,"h":"5b8fc3daded2875c","p":1,"t":"clothing"}
 {"id":8703111,"h":"644304262edad709","p":1,"t":"body-parts"}
+{"id":8703655,"h":"5a5252010d11c4ee","p":1,"t":"wig"}
+{"id":8703661,"h":"3d587677eea4f837","p":1,"t":"wig"}
+{"id":8703663,"h":"79b11342cfbf3ff3","p":1,"t":"wig"}
+{"id":8703666,"h":"751378f6b242482d","p":1,"t":"wig"}
+{"id":8703670,"h":"74c5b8cc63704204","p":1,"t":"wig"}
+{"id":8703671,"h":"359eaa31dbb2415c","p":1,"t":"wig"}
+{"id":8703675,"h":"640b585bcb40da82","p":1,"t":"wig"}
+{"id":8703678,"h":"60da7a69ef9f6b35","p":1,"t":"wig"}
 {"id":8704845,"h":"998a67df405f200c","p":1,"t":"clothing"}
 {"id":8705027,"h":"64c9cb862f4a2799","p":1,"t":"accessory"}
 {"id":8705215,"h":"ddaebb190566bd28","p":1,"t":"clothing"}
