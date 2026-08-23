@@ -1,4 +1,4 @@
-{"_":"dollfinder-overlay","v":1,"model":"qwen3.6-35b-a3b","prompt":"2026-08-06e","built":"2026-08-22T20:18:00.871Z","count":31101}
+{"_":"dollfinder-overlay","v":1,"model":"qwen3.6-35b-a3b","prompt":"2026-08-06e","built":"2026-08-23T20:03:17.044Z","count":31162}
 {"id":297786,"h":"013ce9e01b555f21","p":1,"t":"body-parts"}
 {"id":395233,"h":"357ded065d851b61","p":1,"t":"clothing"}
 {"id":443539,"h":"e7cf44064fec69b4","p":1,"t":"clothing"}
@@ -7685,6 +7685,7 @@
 {"id":4126638,"h":"2a626a14eb49001d","p":1,"t":"furniture"}
 {"id":4126679,"h":"079de8dc039161fc","p":1,"t":"furniture"}
 {"id":4126867,"h":"b65eac97c0ef3707","p":1,"t":"accessory"}
+{"id":4126875,"h":"9c3ef6353c2252da","p":1,"t":"furniture"}
 {"id":4127130,"h":"69768fe2de27710a","p":1,"t":"clothing"}
 {"id":4128754,"h":"4038fa391c68fc7c","p":1,"t":"accessory"}
 {"id":4128760,"h":"d966e145eea8cd5b","p":1,"t":"accessory"}
@@ -7984,6 +7985,7 @@
 {"id":4215726,"h":"661b02644451facb","p":1,"t":"clothing"}
 {"id":4216009,"h":"e0416f00a5686464","p":1,"t":"eye"}
 {"id":4216640,"h":"fb5bfa1f57755802","p":1,"t":"eye"}
+{"id":4216879,"h":"8a0969d903f03554","p":1,"t":"accessory"}
 {"id":4216988,"h":"0d05292408059085","p":1,"t":"clothing"}
 {"id":4217798,"h":"39d4207743e7d46d","p":1,"t":"body-parts"}
 {"id":4217895,"h":"708ce5436833974e","p":1,"t":"clothing"}
@@ -8037,6 +8039,7 @@
 {"id":4230561,"h":"46a8b68d03205340","p":1,"t":"clothing"}
 {"id":4231159,"h":"f32c023f4f738b57","p":1,"t":"clothing"}
 {"id":4231190,"h":"7b4039b4ea14cd1c","p":1,"t":"clothing"}
+{"id":4231549,"h":"6315d1e20b4fd981","p":1,"t":"accessory"}
 {"id":4232248,"h":"459bbad2d7556c06","p":1,"t":"body-parts"}
 {"id":4232336,"h":"43218f5d27006ff4","p":1,"t":"accessory"}
 {"id":4232368,"h":"aac0257c6279493b","p":1,"t":"clothing"}
@@ -10159,6 +10162,7 @@
 {"id":4809484,"h":"aa68103585ec298b","p":1,"t":"accessory"}
 {"id":4809527,"h":"7ea2f8042d2401ae","p":1,"t":"accessory"}
 {"id":4809572,"h":"8f3ff0d44c0e078c","p":1,"t":"accessory"}
+{"id":4810147,"h":"2bf7220e734cf830","p":1,"t":"furniture"}
 {"id":4810155,"h":"b72877a4306ddb21","p":1,"t":"furniture"}
 {"id":4810930,"h":"d7a0f752be753dfc","p":1,"t":"clothing"}
 {"id":4811299,"h":"957c6177afe6f9ae","p":1,"t":"wig"}
@@ -14680,10 +14684,13 @@
 {"id":5673987,"h":"3f4b20e8f331c5e6","p":0,"r":"other-hobby"}
 {"id":5674028,"h":"5fcc80fe4ab53c03","p":1,"t":"clothing"}
 {"id":5674045,"h":"02cfe92229683f5e","p":1,"t":"eye"}
+{"id":5674286,"h":"82f7b3005af2451a","p":1,"t":"accessory"}
+{"id":5674295,"h":"6a804e099df51292","p":1,"t":"accessory"}
 {"id":5674490,"h":"69a9a4a16f4f508a","p":1,"t":"furniture"}
 {"id":5674564,"h":"69fc35f0bbc298c6","p":1,"t":"accessory"}
 {"id":5674718,"h":"8ea9edf5d88e5438","p":1,"t":"shoes"}
 {"id":5674759,"h":"df0b4be7f57e03dc","p":1,"t":"shoes"}
+{"id":5675077,"h":"fd5287a875258645","p":1,"t":"furniture"}
 {"id":5675148,"h":"ea0e1e96896cd563","p":1,"t":"clothing"}
 {"id":5675179,"h":"4c4c46704d606345","p":1,"t":"clothing"}
 {"id":5675504,"h":"7afa548f1daede16","p":1,"t":"clothing"}
@@ -14755,6 +14762,7 @@
 {"id":5685771,"h":"e91ec05f52cc746d","p":1,"t":"furniture"}
 {"id":5685850,"h":"767e0bf38eca4911","p":1,"t":"accessory"}
 {"id":5686424,"h":"722d315fbdb5295b","p":1,"t":"clothing"}
+{"id":5686666,"h":"c8fe2ab59ec26d54","p":1,"t":"accessory"}
 {"id":5686689,"h":"64bda0ccacd03dfe","p":1,"t":"accessory"}
 {"id":5686697,"h":"bf7850b24a0f8562","p":1,"t":"accessory"}
 {"id":5687006,"h":"4b4cf20faa46235a","p":1,"t":"accessory"}
@@ -14766,6 +14774,7 @@
 {"id":5687839,"h":"332ae07839b6c2e1","p":1,"t":"accessory"}
 {"id":5688156,"h":"97f374cc2c673ad9","p":1,"t":"clothing"}
 {"id":5688432,"h":"8c9307f3d1ec8665","p":1,"t":"clothing"}
+{"id":5688557,"h":"1193f00c4f204d61","p":1,"t":"accessory"}
 {"id":5688689,"h":"a5c6de351300a412","p":1,"t":"clothing"}
 {"id":5688776,"h":"d27948e173fe8df8","p":1,"t":"clothing"}
 {"id":5688837,"h":"5c4996e6e2760240","p":1,"t":"clothing"}
@@ -14911,6 +14920,7 @@
 {"id":5719240,"h":"355583447c66034e","p":1,"t":"clothing"}
 {"id":5719274,"h":"585616e128dc77f7","p":1,"t":"clothing"}
 {"id":5719347,"h":"1c275584e068d0cc","p":1,"t":"clothing"}
+{"id":5719500,"h":"768206e2b48fb3b8","p":1,"t":"accessory"}
 {"id":5719574,"h":"4d7bc564a17b0b7e","p":1,"t":"accessory"}
 {"id":5719589,"h":"efd8e4b18298d35a","p":1,"t":"accessory"}
 {"id":5719655,"h":"3ce41a3f37063276","p":1,"t":"eye"}
@@ -16049,6 +16059,7 @@
 {"id":5902539,"h":"90e7a54f48f677b3","p":1,"t":"wig"}
 {"id":5902548,"h":"a87afa78e26bd699","p":1,"t":"clothing"}
 {"id":5902704,"h":"3d2f5f51211db16c","p":1,"t":"accessory"}
+{"id":5903196,"h":"74ea26dca94e34fa","p":1,"t":"accessory"}
 {"id":5903213,"h":"2ddec25fe7671b9c","p":1,"t":"clothing"}
 {"id":5903679,"h":"0268ae8527386c29","p":1,"t":"accessory"}
 {"id":5904387,"h":"963a6fe8709ac7f4","p":1,"t":"clothing"}
@@ -16560,6 +16571,7 @@
 {"id":5976853,"h":"5ec20ccb60679591","p":1,"t":"clothing"}
 {"id":5976870,"h":"6e7886de50e0e055","p":1,"t":"clothing"}
 {"id":5976889,"h":"266e842aa0363db1","p":1,"t":"accessory"}
+{"id":5977207,"h":"4c9a671b772e3512","p":1,"t":"accessory"}
 {"id":5977343,"h":"ada27d4b9c196061","p":1,"t":"clothing"}
 {"id":5977344,"h":"8920e7ffeb401e65","p":1,"t":"clothing"}
 {"id":5977421,"h":"3debc022c55a482b","p":1,"t":"furniture"}
@@ -16889,7 +16901,9 @@
 {"id":6038854,"h":"29628babe2eaa9be","p":1,"t":"clothing"}
 {"id":6039323,"h":"32b52a5cecd7903b","p":1,"t":"clothing"}
 {"id":6039384,"h":"0a8984bea3a367b3","p":1,"t":"accessory"}
+{"id":6039518,"h":"c5df97b6e25d34e4","p":1,"t":"accessory"}
 {"id":6039582,"h":"b086c8253673efeb","p":1,"t":"accessory"}
+{"id":6039600,"h":"ef86853219ae7323","p":1,"t":"accessory"}
 {"id":6040038,"h":"9373d0744f035eb7","p":1,"t":"accessory"}
 {"id":6040803,"h":"fd579b539887d986","p":1,"t":"clothing"}
 {"id":6040857,"h":"fd64b4851cd5b950","p":1,"t":"clothing"}
@@ -17245,6 +17259,7 @@
 {"id":6111758,"h":"cd638e78a0bbf9ab","p":1,"t":"body-parts"}
 {"id":6111839,"h":"dec93aec46ee1a82","p":1,"t":"furniture"}
 {"id":6111846,"h":"4d8b2576b103d6c1","p":1,"t":"clothing"}
+{"id":6111883,"h":"6a5100f9319afdf4","p":1,"t":"accessory"}
 {"id":6111965,"h":"6ed1f9716c2969c2","p":1,"t":"wig"}
 {"id":6111982,"h":"e3d67ba7177358d5","p":1,"t":"clothing"}
 {"id":6111987,"h":"5e354b88cd3df873","p":1,"t":"body-parts"}
@@ -19166,6 +19181,7 @@
 {"id":6557843,"h":"d9ae6899166e7aeb","p":1,"t":"clothing"}
 {"id":6557933,"h":"a0aa7a8ffc7fd41f","p":1,"t":"clothing"}
 {"id":6558535,"h":"d1db7a8311372142","p":1,"t":"clothing"}
+{"id":6558730,"h":"ebf47152e48aaee3","p":1,"t":"accessory"}
 {"id":6559124,"h":"56a521ab72eccfbf","p":1,"t":"shoes"}
 {"id":6559207,"h":"f0b2adada006eb07","p":1,"t":"body-parts"}
 {"id":6559310,"h":"4124daddeedcef94","p":1,"t":"clothing"}
@@ -19236,6 +19252,7 @@
 {"id":6571521,"h":"b3fa1c7e79cfedd5","p":1,"t":"clothing"}
 {"id":6571876,"h":"fd566bf2ade0daac","p":1,"t":"accessory"}
 {"id":6572671,"h":"a493749162476469","p":1,"t":"clothing"}
+{"id":6572845,"h":"221ee963561ebeca","p":1,"t":"accessory"}
 {"id":6572980,"h":"f2da0b1e0aa30d96","p":1,"t":"wig"}
 {"id":6573789,"h":"86da677062d6ec2d","p":1,"t":"furniture"}
 {"id":6574593,"h":"89e47c998e950fec","p":1,"t":"clothing"}
@@ -21103,6 +21120,7 @@
 {"id":7021275,"h":"156dc3ccf9d3cffd","p":1,"t":"clothing"}
 {"id":7021515,"h":"e8fee9195644993c","p":1,"t":"body-parts"}
 {"id":7021901,"h":"c18f95807f51aa15","p":1,"t":"furniture"}
+{"id":7023856,"h":"481e15b8b1baf9a3","p":1,"t":"accessory"}
 {"id":7024578,"h":"3157d57854324e57","p":1,"t":"eye"}
 {"id":7024591,"h":"f5ee4b46c591663e","p":1,"t":"clothing"}
 {"id":7025040,"h":"ee0feb47a8396597","p":1,"t":"accessory"}
@@ -21883,6 +21901,7 @@
 {"id":7206406,"h":"314d2814bcfb1314","p":1,"t":"accessory"}
 {"id":7206432,"h":"5411483936ce3621","p":1,"t":"clothing"}
 {"id":7206463,"h":"83329d0b61ad221e","p":1,"t":"clothing"}
+{"id":7206573,"h":"0744a997db20a005","p":1,"t":"furniture"}
 {"id":7208623,"h":"a37fdd2d5e303241","p":1,"t":"wig"}
 {"id":7208657,"h":"dfc6da55ddc3ff2e","p":1,"t":"wig"}
 {"id":7208667,"h":"56f3efcfd41d9ad5","p":1,"t":"wig"}
@@ -23041,6 +23060,7 @@
 {"id":7419943,"h":"1d7f94ddc540c9f4","p":1,"t":"shoes"}
 {"id":7419984,"h":"459b4716d5d8d223","p":1,"t":"accessory"}
 {"id":7420100,"h":"90254de1434c6317","p":1,"t":"clothing"}
+{"id":7420172,"h":"b2011456ba2185d9","p":1,"t":"accessory"}
 {"id":7420317,"h":"0932c7a66e8de705","p":1,"t":"furniture"}
 {"id":7420613,"h":"f93be398b981e5d9","p":1,"t":"accessory"}
 {"id":7420655,"h":"a713f8e4575b2499","p":1,"t":"body-parts"}
@@ -23291,6 +23311,8 @@
 {"id":7455562,"h":"db4185b7a6d34c39","p":1,"t":"clothing"}
 {"id":7455705,"h":"cfd3e4eccd7cd487","p":1,"t":"clothing"}
 {"id":7455822,"h":"2b9bd2fd936a2a84","p":1,"t":"clothing"}
+{"id":7456322,"h":"935508965b878252","p":1,"t":"accessory"}
+{"id":7456472,"h":"7e17dce8878ac2de","p":1,"t":"accessory"}
 {"id":7456632,"h":"e0128aa9cdcf4c4a","p":1,"t":"accessory"}
 {"id":7456732,"h":"57aa1204b5d4f27a","p":1,"t":"body-parts"}
 {"id":7457407,"h":"d0958a2d556222f9","p":1,"t":"clothing"}
@@ -26329,6 +26351,7 @@
 {"id":7992023,"h":"10e293f20604e1f5","p":1,"t":"clothing"}
 {"id":7992075,"h":"dd5f2cf5317df33a","p":1,"t":"clothing"}
 {"id":7992213,"h":"ffd9dc2470b0bbcc","p":1,"t":"wig"}
+{"id":7992220,"h":"4ce1bc1133d221e3","p":1,"t":"accessory"}
 {"id":7992221,"h":"ff2a6166ab717635","p":1,"t":"wig"}
 {"id":7992551,"h":"908c6a1293fe60fe","p":1,"t":"wig"}
 {"id":7993101,"h":"c3330eb4a2ad20fa","p":1,"t":"accessory"}
@@ -28723,6 +28746,7 @@
 {"id":8434851,"h":"dbcafc9ad934738f","p":1,"t":"clothing"}
 {"id":8434920,"h":"218219572c1664d6","p":1,"t":"eye"}
 {"id":8435663,"h":"da628a1619646696","p":1,"t":"accessory"}
+{"id":8435891,"h":"33f60d685868e0df","p":1,"t":"accessory"}
 {"id":8436536,"h":"d57d90e740b5574c","p":1,"t":"clothing"}
 {"id":8437674,"h":"733158b76b1f19b4","p":1,"t":"clothing"}
 {"id":8437763,"h":"e22ae13fc22592e2","p":1,"t":"clothing"}
@@ -31038,6 +31062,7 @@
 {"id":8744081,"h":"f232a93c044d37b3","p":1,"t":"clothing"}
 {"id":8744143,"h":"a22debde326b4a70","p":1,"t":"clothing"}
 {"id":8744146,"h":"b7583cb7600aaf9d","p":1,"t":"clothing"}
+{"id":8744554,"h":"9a95e9f04ce366df","p":1,"t":"wig"}
 {"id":8744582,"h":"c4a3219381d67c69","p":1,"t":"clothing"}
 {"id":8744633,"h":"a6d611f17cd64ad1","p":1,"t":"clothing"}
 {"id":8744677,"h":"f89e07aeb71139be","p":1,"t":"clothing"}
@@ -31077,6 +31102,7 @@
 {"id":8747339,"h":"16e6b8d5210a36d7","p":1,"t":"clothing"}
 {"id":8747525,"h":"2084d58cd7b843fa","p":1,"t":"wig"}
 {"id":8747630,"h":"84871d34257c29fa","p":1,"t":"pattern-data"}
+{"id":8747651,"h":"678bcece63200028","p":1,"t":"accessory"}
 {"id":8747668,"h":"63528673fdbe0d97","p":1,"t":"shoes"}
 {"id":8747680,"h":"0b929eea2c84b545","p":1,"t":"shoes"}
 {"id":8747701,"h":"1696242feb295d8c","p":1,"t":"clothing"}
@@ -31100,3 +31126,38 @@
 {"id":8749798,"h":"6375237a34945b99","p":1,"t":"accessory"}
 {"id":8749845,"h":"08859c94dd0901df","p":1,"t":"shoes"}
 {"id":8749959,"h":"24290d40d7b21cfa","p":1,"t":"accessory"}
+{"id":8750045,"h":"d101136f45b0ea6f","p":1,"t":"furniture"}
+{"id":8750385,"h":"fb7c503effda6fa8","p":1,"t":"accessory"}
+{"id":8750436,"h":"98f0ea9c4daf9c9b","p":1,"t":"accessory"}
+{"id":8750484,"h":"676b441aa7de7ff5","p":1,"t":"accessory"}
+{"id":8750789,"h":"3466fdc5a5d64188","p":1,"t":"clothing"}
+{"id":8750793,"h":"13fec34ffa3151cd","p":1,"t":"clothing"}
+{"id":8750818,"h":"5d8685bd7c278fce","p":1,"t":"accessory"}
+{"id":8750853,"h":"f86de41ceb0e1c7a","p":1,"t":"clothing"}
+{"id":8750983,"h":"136e8b9a47cb3d3a","p":1,"t":"wig"}
+{"id":8751526,"h":"933a3b79e4ce062c","p":1,"t":"shoes"}
+{"id":8751734,"h":"6b9b2a62eef1a65e","p":1,"t":"accessory"}
+{"id":8751897,"h":"f5a421065cdbc911","p":1,"t":"clothing"}
+{"id":8751903,"h":"1c56c11b73957c2e","p":1,"t":"clothing"}
+{"id":8751970,"h":"ebe788cd58bbb975","p":1,"t":"eye"}
+{"id":8752053,"h":"a25f1552e0907ec8","p":1,"t":"furniture"}
+{"id":8752075,"h":"111946094f39b933","p":1,"t":"accessory"}
+{"id":8752077,"h":"1a25a9a7aa61df2c","p":1,"t":"accessory"}
+{"id":8752088,"h":"23c2b8679d0662b5","p":1,"t":"accessory"}
+{"id":8752100,"h":"d0571b300d083919","p":1,"t":"furniture"}
+{"id":8752109,"h":"9656a728e8672c78","p":1,"t":"accessory"}
+{"id":8752161,"h":"9d10c31d970d5486","p":1,"t":"clothing"}
+{"id":8752218,"h":"68ff22b143a15871","p":1,"t":"clothing"}
+{"id":8752300,"h":"d3ca791936a8b988","p":1,"t":"clothing"}
+{"id":8752909,"h":"bf114ee6d23a9828","p":1,"t":"wig"}
+{"id":8753017,"h":"129d847b7480a98c","p":1,"t":"wig"}
+{"id":8753487,"h":"d5560c0c0aa87e28","p":1,"t":"clothing"}
+{"id":8753864,"h":"f3fc3a88dc3d178a","p":1,"t":"clothing"}
+{"id":8753937,"h":"73ec653425172f70","p":1,"t":"eye"}
+{"id":8754043,"h":"5410e147e79e0c83","p":1,"t":"accessory"}
+{"id":8754218,"h":"14f48f0f3bd3d344","p":1,"t":"accessory"}
+{"id":8754331,"h":"a7562c33b300dd94","p":1,"t":"wig"}
+{"id":8754337,"h":"7ac8c6c13e62aa40","p":0,"r":"not-product"}
+{"id":8754385,"h":"35d3b1519cf6038b","p":1,"t":"accessory"}
+{"id":8754427,"h":"ea7d006dc5a18fb6","p":1,"t":"accessory"}
+{"id":8754592,"h":"87be8800e9713b81","p":1,"t":"clothing"}
